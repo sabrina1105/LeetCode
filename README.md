@@ -1,2 +1,2 @@
-# LeetCode
-Question for test
+# CodingPractice
+Question for practice
